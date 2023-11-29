@@ -1,0 +1,184 @@
+{
+    "Objects": [
+        {
+            "name": "Wreck_Mi8",
+            "pos": [
+                1528.853271484375,
+                300.241455078125,
+                9170.0068359375
+            ],
+            "ypr": [
+                137.61097717285157,
+                0.0,
+                7.999999523162842
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Wreck_UH1Y",
+            "pos": [
+                1535.6815185546876,
+                300.3265380859375,
+                9172.1220703125
+            ],
+            "ypr": [
+                83.40568542480469,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Misc_SupplyBox1_DE",
+            "pos": [
+                1528.1116943359376,
+                298.5871887207031,
+                9167.828125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Misc_SupplyBox2_DE",
+            "pos": [
+                1536.8038330078126,
+                298.13873291015627,
+                9172.369140625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Misc_SupplyBox3_DE",
+            "pos": [
+                1532.297607421875,
+                298.3916320800781,
+                9165.744140625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Misc_SupplyBox3_DE",
+            "pos": [
+                1521.4154052734376,
+                298.4675598144531,
+                9175.251953125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Misc_SupplyBox2_DE",
+            "pos": [
+                1528.5989990234376,
+                299.265625,
+                9175.69921875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Misc_SupplyBox1_DE",
+            "pos": [
+                1533.957763671875,
+                298.9345703125,
+                9176.0830078125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Well_Pump_Yellow",
+            "pos": [
+                1488.6392822265626,
+                297.914306640625,
+                9209.8837890625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "PileOfWoodenPlanks",
+            "pos": [
+                1418.293701171875,
+                301.6674499511719,
+                9311.302734375
+            ],
+            "ypr": [
+                -131.01756286621095,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "PileOfWoodenPlanks",
+            "pos": [
+                1399.158447265625,
+                307.9225769042969,
+                9258.5615234375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "PileOfWoodenPlanks",
+            "pos": [
+                1358.0069580078126,
+                291.6011047363281,
+                9319.0703125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        }
+    ]
+}

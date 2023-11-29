@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<map>
+	<group name="Wreck_Mi8" pos="1528.853271 300.241455 9170.006836" rpy="8.000000 0.000000 137.610977" a="-47.611"/>
+	<group name="Wreck_UH1Y" pos="1535.681519 300.326538 9172.122070" rpy="-0.000000 0.000000 83.405685" a="6.59431"/>
+	<group name="StaticObj_Misc_SupplyBox1_DE" pos="1528.111694 298.587189 9167.828125" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="StaticObj_Misc_SupplyBox2_DE" pos="1536.803833 298.138733 9172.369141" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="StaticObj_Misc_SupplyBox3_DE" pos="1532.297607 298.391632 9165.744141" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="StaticObj_Misc_SupplyBox3_DE" pos="1521.415405 298.467560 9175.251953" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="StaticObj_Misc_SupplyBox2_DE" pos="1528.598999 299.265625 9175.699219" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="StaticObj_Misc_SupplyBox1_DE" pos="1533.957764 298.934570 9176.083008" rpy="-0.000000 0.000000 0.000000" a="90"/>
+	<group name="Land_Misc_Well_Pump_Yellow" pos="1488.639282 297.914307 9209.883789" rpy="-0.000000 0.000000 0.000000" a="90"/>
+</map>
